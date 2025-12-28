@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Quotex AI Trading Bot",
+  "version": "1.0.0",
+  "description": "AI-powered trading signals for Quotex binary options",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Quotex AI Bot"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
