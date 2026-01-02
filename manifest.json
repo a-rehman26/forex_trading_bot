@@ -7,7 +7,9 @@
     "default_popup": "popup.html",
     "default_title": "Quotex AI Bot"
   },
+  
   "permissions": [
     "storage"
   ]
+  
 }
